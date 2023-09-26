@@ -55,7 +55,7 @@ public class Main {
         workers += 94;
         allTime = workers * workTimeWorker;
         System.out.println("Если в компании работает " + workers +
-                " человека, то всего " + allTime + " часа работы может быть поделено между сотрудниками");
+                " человека, то всего " + allTime + " часа работы может быть поделено между сотрудниками!");
 
 
      }
